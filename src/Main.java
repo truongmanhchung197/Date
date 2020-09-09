@@ -1,5 +1,3 @@
-package com.company;
-
 import javax.xml.bind.SchemaOutputResolver;
 import java.util.Date;
 
